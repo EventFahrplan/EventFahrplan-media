@@ -9,9 +9,9 @@ The logotype uses Open Sans Bold.
 
 Colors of the logo: 
 RGB (for digital use)
-cyan: #00ffff 
-magenta: #ff00ff
-yellow: #ffff00
+cyan: #00c2ff 
+magenta: #ff008e
+yellow: #ffed00
 black: #000000
 white: #ffffff
 
